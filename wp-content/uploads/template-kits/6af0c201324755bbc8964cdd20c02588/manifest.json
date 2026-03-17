@@ -1,0 +1,1252 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Rauhum - Architecture & Interior Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templates.studioniskala.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact us form",
+            "screenshot": "screenshots\/contact-us-form.jpg",
+            "source": "templates\/contact-us-form.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/contact-us-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Comment form",
+            "screenshot": "screenshots\/comment-form.jpg",
+            "source": "templates\/comment-form.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/comment-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Design Guidelines",
+            "screenshot": "screenshots\/design-guidelines.jpg",
+            "source": "templates\/design-guidelines.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/design-guidelines\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Not Found",
+            "screenshot": "screenshots\/404-not-found.jpg",
+            "source": "templates\/404-not-found.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/404-not-found\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plans",
+            "screenshot": "screenshots\/pricing-plans.jpg",
+            "source": "templates\/pricing-plans.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/pricing-plans\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Detail",
+            "screenshot": "screenshots\/project-detail.jpg",
+            "source": "templates\/project-detail.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/project-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templates.studioniskala.com\/rauhum\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.28.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.5.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.9.8",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo-Rauhum-site.png",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/Logo-Rauhum-site.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3319,
+            "dimensions": [
+                286,
+                64
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-Rauhum.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/Logo-Rauhum.jpg",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3929,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "parents-in-cottage-AUSZB57.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/parents-in-cottage-AUSZB57-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                }
+            ],
+            "filesize": 185466,
+            "dimensions": [
+                1155,
+                770
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-AUSZB57"
+        },
+        {
+            "filename": "hands-with-real-estate-agent-7PRX377.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/hands-with-real-estate-agent-7PRX377-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 107217,
+            "dimensions": [
+                1344,
+                2016
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-7PRX377"
+        },
+        {
+            "filename": "colors-standing-next-JNCXAF8.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/colors-standing-next-JNCXAF8-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/design-guidelines.json",
+                    "name": "Design Guidelines"
+                }
+            ],
+            "filesize": 170891,
+            "dimensions": [
+                1238,
+                825
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JNCXAF8"
+        },
+        {
+            "filename": "various-ethnic-CQ2T9R4.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/various-ethnic-CQ2T9R4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-not-found.json",
+                    "name": "404 Not Found"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 165328,
+            "dimensions": [
+                1791,
+                1194
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-CQ2T9R4"
+        },
+        {
+            "filename": "white-chairs-PHYDLCS.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/white-chairs-PHYDLCS-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 166199,
+            "dimensions": [
+                1723,
+                1149
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHYDLCS"
+        },
+        {
+            "filename": "photo-frame-in-living-room-LRYMKUL.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/photo-frame-in-living-room-LRYMKUL-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 173853,
+            "dimensions": [
+                1500,
+                1050
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-LRYMKUL"
+        },
+        {
+            "filename": "construction-project-XG8Z78C.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/construction-project-XG8Z78C-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 197387,
+            "dimensions": [
+                1656,
+                1105
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-XG8Z78C"
+        },
+        {
+            "filename": "family-couple-new-home-KAHJ7R7.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/family-couple-new-home-KAHJ7R7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 143629,
+            "dimensions": [
+                1997,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-KAHJ7R7"
+        },
+        {
+            "filename": "family-standi-GECLF78.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/family-standi-GECLF78-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 156939,
+            "dimensions": [
+                1698,
+                1133
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-GECLF78"
+        },
+        {
+            "filename": "3-YK2UXCU-4.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/3-YK2UXCU-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 49841,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YK2UXCU"
+        },
+        {
+            "filename": "1-YK2UXCU-6.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/1-YK2UXCU-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 71705,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YK2UXCU"
+        },
+        {
+            "filename": "4-YK2UXCU-3.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/4-YK2UXCU-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 62660,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YK2UXCU"
+        },
+        {
+            "filename": "2-YK2UXCU-5.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/2-YK2UXCU-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 59512,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YK2UXCU"
+        },
+        {
+            "filename": "5-YK2UXCU-2.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/5-YK2UXCU-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 49937,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YK2UXCU"
+        },
+        {
+            "filename": "6-YK2UXCU-1.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/6-YK2UXCU-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 60793,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YK2UXCU"
+        },
+        {
+            "filename": "Altura.png",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/Altura.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2031,
+            "dimensions": [
+                121,
+                29
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Eficia.png",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/Eficia.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2037,
+            "dimensions": [
+                103,
+                49
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "FortiAI.png",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/FortiAI.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1637,
+            "dimensions": [
+                94,
+                33
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Innoalve.png",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/Innoalve.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2247,
+            "dimensions": [
+                131,
+                32
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "iOasis.png",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/iOasis.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1690,
+            "dimensions": [
+                94,
+                26
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Neura.png",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/Neura.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2048,
+            "dimensions": [
+                99,
+                36
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "StyleAura.png",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/StyleAura.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3038,
+            "dimensions": [
+                147,
+                40
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Virtuo.png",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/Virtuo.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2008,
+            "dimensions": [
+                118,
+                43
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "wooden-commode-DSE3P5S.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/wooden-commode-DSE3P5S-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 179226,
+            "dimensions": [
+                2016,
+                1344
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-DSE3P5S"
+        },
+        {
+            "filename": "chandelier-P3Y23QE.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/chandelier-P3Y23QE-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 140058,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3Y23QE"
+        },
+        {
+            "filename": "room-with-stairs-PRVUTWL.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/room-with-stairs-PRVUTWL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 219155,
+            "dimensions": [
+                1723,
+                1149
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRVUTWL"
+        },
+        {
+            "filename": "modern-dining-room-in-the-industr-ZV26KLP.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/modern-dining-room-in-the-industr-ZV26KLP-800x691.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 176550,
+            "dimensions": [
+                1841,
+                1590
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZV26KLP"
+        },
+        {
+            "filename": "3d-house-interior-YL2Z5TZ.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/3d-house-interior-YL2Z5TZ-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 92554,
+            "dimensions": [
+                1152,
+                648
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YL2Z5TZ"
+        },
+        {
+            "filename": "sofa-contemporary-wood-living-r-3ZQX3YQ.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/sofa-contemporary-wood-living-r-3ZQX3YQ-800x584.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 108468,
+            "dimensions": [
+                1080,
+                788
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-3ZQX3YQ"
+        },
+        {
+            "filename": "frame-in-lounge-room-VFRMTWN.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/frame-in-lounge-room-VFRMTWN-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 151032,
+            "dimensions": [
+                1500,
+                1050
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-VFRMTWN"
+        },
+        {
+            "filename": "corner-of-an-open-FUMXWYQ.jpg",
+            "thumbnail_url": "https:\/\/templates.studioniskala.com\/rauhum\/wp-content\/uploads\/sites\/10\/2025\/04\/corner-of-an-open-FUMXWYQ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 165813,
+            "dimensions": [
+                1381,
+                920
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FUMXWYQ"
+        }
+    ]
+}
